@@ -1,0 +1,19 @@
+{
+  "anecdotes": [
+    {
+      "id": 1,
+      "content": "If it hurts, do it more often",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Adding manpower to a late software project makes it later!",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "The first 90 percent of the code accounts for the first 10 percent...",
+      "important": false
+    }
+  ]
+}
